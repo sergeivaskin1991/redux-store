@@ -15,6 +15,9 @@
 - React
 - Redux
 
+ ## Планируется доработать:
+ - Обновление тотал в хедере в заказе
+
 ## Посмотреть
  - https://sergeivaskin1991.github.io/redux-store
  
